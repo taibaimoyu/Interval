@@ -1,5 +1,5 @@
 <?php
-public function getInterval($dateStart,$dateEnd,$type){
+public function getInterval($period_date_from,$period_date_to,$type){
 	
 		$dateStart  = $period_date_from;
 		$dateEnd    = $period_date_to;
